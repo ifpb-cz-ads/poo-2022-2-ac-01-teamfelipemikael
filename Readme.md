@@ -31,7 +31,10 @@ Obs.: O commit e9cef48 possui o arquivo com o metódo main.
 Resposta no arquivo [src/questao06.java](src/questao06.java)
 
 ## Questão 07:
-@mikael responder
+Arquivo referente a questão: [src/Questao7.java](src/Questao7.java)
+
+Resposta:
+![Resposta](imgs/questao07.png)
 
 ## Questão 08:
 Resposta no arquivo [src/questao08.java](src/questao08.java)

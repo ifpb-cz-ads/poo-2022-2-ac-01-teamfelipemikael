@@ -16,7 +16,8 @@ multiplataforma, uma vez que o bytecode compilado é interpretado por uma máqui
 Resposta no arquivo [src/questao03.java](src/questao03.java)
 
 ## Questão 04:
-@mikael responder
+Resposta:
+![Resposta](imgs/questao04.png)
 
 ## Questão 05:
 @mikael responder

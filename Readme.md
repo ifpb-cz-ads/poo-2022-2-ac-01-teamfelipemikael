@@ -38,3 +38,5 @@ Resposta:
 
 ## Questão 08:
 Resposta no arquivo [src/questao08.java](src/questao08.java)
+
+![Resposta](imgs/questao08.png)

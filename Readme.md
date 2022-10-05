@@ -20,7 +20,12 @@ Resposta:
 ![Resposta](imgs/questao04.png)
 
 ## Questão 05:
-@mikael responder
+Arquivo referente a questão: [src/Questao5.java](src/Questao5.java)
+
+Resposta:
+![Resposta](imgs/questao05.png)
+
+Obs.: O commit e9cef48 possui o arquivo com o metódo main.
 
 ## Questão 06:
 Resposta no arquivo [src/questao06.java](src/questao06.java)

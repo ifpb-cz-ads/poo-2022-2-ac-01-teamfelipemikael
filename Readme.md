@@ -8,7 +8,9 @@ multiplataforma, uma vez que o bytecode compilado é interpretado por uma máqui
 0 contato com o sistema operacional em si.
 
 ## Questão 02:
-@mikael responder
+**JRE:** Ferramentas necessárias para a execução de aplicações Java (JVM e bibliotecas padrão);
+
+**JDK:** Conjunto de ferramentas necessárias para desenvolver em Java.
 
 ## Questão 03:
 Resposta no arquivo [src/questao03.java](src/questao03.java)
